@@ -1,5 +1,10 @@
 # CS 260 Notes
 
+# My actual notes
+## I don't know what to do with the rest of this stuff... but the instructions in the GitHub assignment thing said to take notes
+
+# stuff that was already here:
+
 [My startup - Simon](https://simon.cs260.click)
 
 ## Helpful links
@@ -97,3 +102,4 @@ Handling the toggling of the checkboxes was particularly interesting.
   ))}
 </div>
 ```
+
