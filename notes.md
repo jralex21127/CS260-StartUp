@@ -4,6 +4,10 @@
 ## I don't know what to do with the rest of this stuff... but the instructions in the GitHub assignment thing said to take notes
 I'm so tired
 
+### my why:
+I don't know what else to do with my life. 
+Web programming looks really cool but also is very scary
+
 # stuff that was already here:
 
 [My startup - Simon](https://simon.cs260.click)
