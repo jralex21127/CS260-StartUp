@@ -23,7 +23,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+"Practice Makes Purrfect" is a goal tracking tool to help take your goals to the next level, all while having a fun cat to cheer you on. People set goals to better themselves, but forming new habits or ditching old ones can prove difficult. With this application, I hope to share with others and have a way to use my favorite goal keeping tips: streaks, accountability partners, reminders, and multiple ways to record goal fulfillment. 
 
 ### Design
 
