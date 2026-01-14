@@ -17,7 +17,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 - [ ] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
-- [ ] Description of key features
+- [x] Description of key features
 - [ ] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
@@ -45,6 +45,8 @@ sequenceDiagram
 - **Accountability Partner(s):** connects users so they can work on goals together, whether the same goal or just to have someone to update about their goal.
 - **Multiple Ways to Record Completion**: I like to record if I partially met a goal, so offering that flexibility.
 - **Cat Cheerleader**: a cat to decorate because I thought it would be fun. Might ditch it if it gets too crazy. Mostly for connecting to other users, it's fun to have a little avatar. Also is the whole point for calling my startup "Practice Makes Purrfect".
+- Secure login over HTTPS
+- ability to create and record goals
 
 ### Technologies
 
