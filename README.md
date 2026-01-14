@@ -3,17 +3,10 @@
 [My Notes](notes.md)
 
 A brief description of the application here. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 There are several goal tracking apps out there, but many have features are behind a paywall. As a broke college student, I usually begin using one and hit that wall, uninstall the app immediately and resort to gold ole paper to record my goals. Now I have the opportunity to create my own goal tracking app with the features I wish other apps had and without the ones I don't like.
 
 "Practice Makes Purrfect" is a working title that is just fun because I also want to incorporate cats into the display and actions of the app/website. Users create and customize a cat to represent themselves that can accomplish goals with them. 
-
-> [!NOTE]
-> This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
-
-> [!NOTE]
-> If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
 
 ## 🚀 Specification Deliverable
 
