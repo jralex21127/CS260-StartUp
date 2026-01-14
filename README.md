@@ -14,15 +14,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] A concise and compelling elevator pitch
 - [x] Description of key features
 - [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
 "Practice Makes Purrfect" is a goal tracking tool to help take your goals to the next level, all while having a fun cat to cheer you on. People set goals to better themselves, but forming new habits or ditching old ones can prove difficult. With this application, I hope to share with others and have a way to use my favorite goal keeping tips: streaks, accountability partners, reminders, and multiple ways to record goal completion. 
 
 ### Design
-<img width="200" height="400" alt="loginpage" src="https://github.com/user-attachments/assets/7ce340d9-6d08-4c7a-b7ad-bb2b3dcabc7b" />
-<img width="200" height="400" alt="mainpage" src="https://github.com/user-attachments/assets/9415b356-33cb-4d13-ae62-01feaf9f2a91" />
+![log in page](https://github.com/user-attachments/assets/7ce340d9-6d08-4c7a-b7ad-bb2b3dcabc7b) ![main page](https://github.com/user-attachments/assets/9415b356-33cb-4d13-ae62-01feaf9f2a91)
+~they looked better the other way but i think this is the way the instruction say they have to be~
 
 
 Left is the main loading page anticipating username and password. Right is the main page to showcase goals.
