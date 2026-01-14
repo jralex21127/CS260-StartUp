@@ -13,6 +13,16 @@ I'm confused on why it doesn't offer to commit until I save, but then when I sav
 always easier to create it on GitHub first and then clone it to your development environment, thus automatically linked together
 ~lol idk what i just did but i hope i didn't break anything~
 ~idk what that was about but oh well i think everything is the way it's supposed to be now~
+`git clone https://github.com/webprogramming260/startup-example/git`
+
+**Making changes**
+```
+git add file.txt
+git commit -am "update(notes) thought about startup applications"
+git push
+```
+and VS Code
+`git pull`
 
 ### my why:
 I don't know what else to do with my life. 
