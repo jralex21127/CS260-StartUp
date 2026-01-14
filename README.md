@@ -23,7 +23,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-"Practice Makes Purrfect" is a goal tracking tool to help take your goals to the next level, all while having a fun cat to cheer you on. People set goals to better themselves, but forming new habits or ditching old ones can prove difficult. With this application, I hope to share with others and have a way to use my favorite goal keeping tips: streaks, accountability partners, reminders, and multiple ways to record goal fulfillment. 
+"Practice Makes Purrfect" is a goal tracking tool to help take your goals to the next level, all while having a fun cat to cheer you on. People set goals to better themselves, but forming new habits or ditching old ones can prove difficult. With this application, I hope to share with others and have a way to use my favorite goal keeping tips: streaks, accountability partners, reminders, and multiple ways to record goal completion. 
 
 ### Design
 
@@ -40,9 +40,10 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- **Streaks:** records how many days in a row the user has met their goal. _(also records their longest streak)_
+- **Accountability Partner(s):** connects users so they can work on goals together, whether the same goal or just to have someone to update about their goal.
+- **Multiple Ways to Record Completion**: I like to record if I partially met a goal, so offering that flexibility.
+- **Cat Cheerleader**: a cat to decorate because I thought it would be fun. Might ditch it if it gets too crazy. Mostly for connecting to other users, it's fun to have a little avatar. Also is the whole point for calling my startup "Practice Makes Purrfect".
 
 ### Technologies
 
