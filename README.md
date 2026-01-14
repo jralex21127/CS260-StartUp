@@ -42,12 +42,12 @@ Left is the main loading page anticipating username and password. Right is the m
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses correct HTML structure for application. HTML pages for login, displaying the main page, showing goal information, creating new goals, customizing cat character, and encouraging friends.
+- **CSS** - Application styling that looks good on different screen sizes, uses cute colors and shops, and displays fun animations to show completion and randomly. 
+- **React** - Provides login, goal display, recording/creating goals, and display friend shared goals.
+- **Service** - Backend service with endpoints for: login, recording goals, recording streaks, connecting users
+- **DB/Login** - Stores users, goals, streaks, accountability partners, and cat characteristics in database. Register and login users. 
+- **WebSocket** - Friend can report goals to each other, and cheer on or remind their friends to do their goals.
 
 ## 🚀 AWS deliverable
 
