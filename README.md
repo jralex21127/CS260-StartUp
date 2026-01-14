@@ -1,9 +1,6 @@
 # Your startup name here
 
 [My Notes](notes.md)
-### i'm doing the Practice using Git thing
-### now I'm doing the Practice using Git thing but through GitHub instead of VSCode
-I kinda don't like that when I make changes to the README and notes files they look like they're on the same branch in VS Code because they're in the same repository. Feel like that will trip me up later when looking at actual code commits. Is that supposed to happen?
 
 A brief description of the application here. 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
