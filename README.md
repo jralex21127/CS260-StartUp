@@ -22,17 +22,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Design
 ![log in page](https://github.com/user-attachments/assets/7ce340d9-6d08-4c7a-b7ad-bb2b3dcabc7b) ![main page](https://github.com/user-attachments/assets/9415b356-33cb-4d13-ae62-01feaf9f2a91)
+
 ~they looked better the other way but i think this is the way the instruction say they have to be~
 
+Left is the main loading page anticipating username and password. Right is the main page to showcase goals. Below I tried to draw server interaction but I had no idea what was going on from the voter example.
 
-Left is the main loading page anticipating username and password. Right is the main page to showcase goals.
-
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
+![server interaction?](https://github.com/user-attachments/assets/27a13a6f-2ea5-4f93-be4a-8c3bb0cc330d)
 
 ### Key features
 
