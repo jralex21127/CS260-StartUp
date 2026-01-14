@@ -12,6 +12,7 @@ I'm confused on why it doesn't offer to commit until I save, but then when I sav
 ~git init~
 always easier to create it on GitHub first and then clone it to your development environment, thus automatically linked together
 ~lol idk what i just did but i hope i didn't break anything~
+~idk what that was about but oh well i think everything is the way it's supposed to be now~
 
 ### my why:
 I don't know what else to do with my life. 
