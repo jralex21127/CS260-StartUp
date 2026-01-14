@@ -4,6 +4,9 @@
 ## I don't know what to do with the rest of this stuff... but the instructions in the GitHub assignment thing said to take notes
 I'm so tired
 
+### now I'm doing the Practice using Git for the notes.md
+I'm confused on why it doesn't offer to commit until I save, but then when I save it's not the same as staging something. Is staging something doing "git add"? Do quotations work on here? I can't remember. How can I "git add" on VS Code? Mama mia.
+
 ### my why:
 I don't know what else to do with my life. 
 Web programming looks really cool but also is very scary
