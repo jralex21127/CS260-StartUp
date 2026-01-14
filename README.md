@@ -2,16 +2,11 @@
 
 [My Notes](notes.md)
 
-A brief description of the application here. 
-
 There are several goal tracking apps out there, but many have features are behind a paywall. As a broke college student, I usually begin using one and hit that wall, uninstall the app immediately and resort to gold ole paper to record my goals. Now I have the opportunity to create my own goal tracking app with the features I wish other apps had and without the ones I don't like.
 
 "Practice Makes Purrfect" is a working title that is just fun because I also want to incorporate cats into the display and actions of the app/website. Users create and customize a cat to represent themselves that can accomplish goals with them. 
 
 ## 🚀 Specification Deliverable
-
-> [!NOTE]
-> Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
