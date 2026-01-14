@@ -28,6 +28,16 @@ git push
 ```
 and VS Code
 `git pull`
+`git fetch`
+`git status`
+
+**Please tell me who you are**
+```
+Run
+
+git config --global user.email "you@example.com"
+git config --global user.name "your name"
+```
 
 ### my why:
 I don't know what else to do with my life. 
